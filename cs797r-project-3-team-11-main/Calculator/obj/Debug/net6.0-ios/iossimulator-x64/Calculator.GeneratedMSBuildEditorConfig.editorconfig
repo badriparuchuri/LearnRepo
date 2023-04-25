@@ -1,0 +1,107 @@
+is_global = true
+build_property.TargetFramework = net6.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Calculator
+build_property.ProjectDir = /Users/badrinadh/Downloads/cs-797r-project-3-team-11-main 3/cs797r-project-3-team-11-main/Calculator/
+
+[/Users/badrinadh/Downloads/cs-797r-project-3-team-11-main 3/cs797r-project-3-team-11-main/Calculator/AboutPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Calculator.AboutPage.xaml
+build_metadata.AdditionalFiles.TargetPath = AboutPage.xaml
+build_metadata.AdditionalFiles.RelativePath = AboutPage.xaml
+
+[/Users/badrinadh/Downloads/cs-797r-project-3-team-11-main 3/cs797r-project-3-team-11-main/Calculator/AdvancedPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Calculator.AdvancedPage.xaml
+build_metadata.AdditionalFiles.TargetPath = AdvancedPage.xaml
+build_metadata.AdditionalFiles.RelativePath = AdvancedPage.xaml
+
+[/Users/badrinadh/Downloads/cs-797r-project-3-team-11-main 3/cs797r-project-3-team-11-main/Calculator/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Calculator.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[/Users/badrinadh/Downloads/cs-797r-project-3-team-11-main 3/cs797r-project-3-team-11-main/Calculator/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Calculator.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[/Users/badrinadh/Downloads/cs-797r-project-3-team-11-main 3/cs797r-project-3-team-11-main/Calculator/CongratsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Calculator.CongratsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = CongratsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = CongratsPage.xaml
+
+[/Users/badrinadh/Downloads/cs-797r-project-3-team-11-main 3/cs797r-project-3-team-11-main/Calculator/DarkTheme.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Calculator.DarkTheme.xaml
+build_metadata.AdditionalFiles.TargetPath = DarkTheme.xaml
+build_metadata.AdditionalFiles.RelativePath = DarkTheme.xaml
+
+[/Users/badrinadh/Downloads/cs-797r-project-3-team-11-main 3/cs797r-project-3-team-11-main/Calculator/ErrorPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Calculator.ErrorPage.xaml
+build_metadata.AdditionalFiles.TargetPath = ErrorPage.xaml
+build_metadata.AdditionalFiles.RelativePath = ErrorPage.xaml
+
+[/Users/badrinadh/Downloads/cs-797r-project-3-team-11-main 3/cs797r-project-3-team-11-main/Calculator/HistoryPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Calculator.HistoryPage.xaml
+build_metadata.AdditionalFiles.TargetPath = HistoryPage.xaml
+build_metadata.AdditionalFiles.RelativePath = HistoryPage.xaml
+
+[/Users/badrinadh/Downloads/cs-797r-project-3-team-11-main 3/cs797r-project-3-team-11-main/Calculator/LightTheme.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Calculator.LightTheme.xaml
+build_metadata.AdditionalFiles.TargetPath = LightTheme.xaml
+build_metadata.AdditionalFiles.RelativePath = LightTheme.xaml
+
+[/Users/badrinadh/Downloads/cs-797r-project-3-team-11-main 3/cs797r-project-3-team-11-main/Calculator/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Calculator.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[/Users/badrinadh/Downloads/cs-797r-project-3-team-11-main 3/cs797r-project-3-team-11-main/Calculator/MenuList.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Calculator.MenuList.xaml
+build_metadata.AdditionalFiles.TargetPath = MenuList.xaml
+build_metadata.AdditionalFiles.RelativePath = MenuList.xaml
+
+[/Users/badrinadh/Downloads/cs-797r-project-3-team-11-main 3/cs797r-project-3-team-11-main/Calculator/PinkTheme.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Calculator.PinkTheme.xaml
+build_metadata.AdditionalFiles.TargetPath = PinkTheme.xaml
+build_metadata.AdditionalFiles.RelativePath = PinkTheme.xaml
+
+[/Users/badrinadh/Downloads/cs-797r-project-3-team-11-main 3/cs797r-project-3-team-11-main/Calculator/PractisePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Calculator.PractisePage.xaml
+build_metadata.AdditionalFiles.TargetPath = PractisePage.xaml
+build_metadata.AdditionalFiles.RelativePath = PractisePage.xaml
+
+[/Users/badrinadh/Downloads/cs-797r-project-3-team-11-main 3/cs797r-project-3-team-11-main/Calculator/RedTheme.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Calculator.RedTheme.xaml
+build_metadata.AdditionalFiles.TargetPath = RedTheme.xaml
+build_metadata.AdditionalFiles.RelativePath = RedTheme.xaml
+
+[/Users/badrinadh/Downloads/cs-797r-project-3-team-11-main 3/cs797r-project-3-team-11-main/Calculator/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Calculator.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Colors.xaml
+
+[/Users/badrinadh/Downloads/cs-797r-project-3-team-11-main 3/cs797r-project-3-team-11-main/Calculator/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Calculator.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Styles.xaml

@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{B76F663C-3C23-4FBC-A224-815AC2D2CBA4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Calculator/HistoryPage.xaml.cs">
+    <Files>
+      <File FileName="Calculator/AppShell.xaml" />
+      <File FileName="Calculator/HistoryViewModel.cs" />
+      <File FileName="Calculator/HistoryPage.xaml.cs" Line="13" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Calculator" expanded="True">
+            <Node name="Calculator" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="HistoryPage.xaml" expanded="True">
+                <Node name="HistoryPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.1CF275A9-AFBF-45CC-AC4E-9D6117D545AA" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Calculator PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.1CF275A9-AFBF-45CC-AC4E-9D6117D545AA" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
